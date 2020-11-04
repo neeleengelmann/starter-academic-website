@@ -6,7 +6,7 @@ title: Neele Engelmann
 superuser: true
 
 # Role/position
-role: PhD researcher
+role: Ph.D. candidate
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. research in Psychology
+  - course: Ph.D. candidate in Psychology
     institution: Georg-August-University Göttingen, Germany
     year: since 2017
   - course: M.Sc. Psychology
