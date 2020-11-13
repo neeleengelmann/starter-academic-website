@@ -68,4 +68,4 @@ highlight_name: false
 #- Visitors
 ---
 
-I'm a Ph.D. candidate at the Department of Cognitive and Decision Sciences at  Georg-August-University of Göttingen, Germany. My dissertation project is about the influence of causal representations on moral reasoning. I'm interested in causal reasoning, moral psychology, computational modelling, experimental philosophy and Open Science. Since 2017, I have been teaching introductory statistics seminars at the undergraduate level, as well as supervising empirical Bachelor and Master projects in Cognitive Science.  TEST
+I'm a Ph.D. candidate at the Department of Cognitive and Decision Sciences at  Georg-August-University of Göttingen, Germany. My dissertation project is about the influence of causal representations on moral reasoning. I'm interested in causal reasoning, moral psychology, computational modelling, experimental philosophy and Open Science. Since 2017, I have been teaching introductory statistics seminars at the undergraduate level, as well as supervising empirical Bachelor and Master projects in Cognitive Science.  
