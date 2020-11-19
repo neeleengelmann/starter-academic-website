@@ -25,7 +25,6 @@ I have been co-teaching introductory statistics since winter 2017, leading pract
 + **Winter 2017/18**: Quantitative Methods I
 
 In addition, I have supervised and co-supervised a number of empirical Bachelor and Master projects in the fields of causal and moral reasoning and experimental philosophy.
-
 <!---
 - **Summer 2020**
   - E. Köhler: Lying, deceiving, misleading: Moral evaluation and the influence of perspective (M.Sc. thesis, joint supervision with Alex Wiegmann)

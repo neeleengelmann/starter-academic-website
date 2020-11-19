@@ -24,7 +24,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. candidate in Psychology
+  - course: Ph.D. Candidate in Psychology
     institution: Georg-August-University Göttingen, Germany
     year: since 2017
   - course: M.Sc. Psychology
