@@ -67,4 +67,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-Get [chapter](https://link.springer.com/chapter/10.1007/978-3-030-34308-8_4) or [book](https://link.springer.com/book/10.1007/978-3-030-34308-8) from publisher's website.
+[See publisher's website](https://link.springer.com/chapter/10.1007/978-3-030-34308-8_4).
+

@@ -67,4 +67,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-Get [book](https://www.suhrkamp.de/buecher/empirische_ethik-_29892.html) from publisher's website.
+[See publisher's website.](https://www.suhrkamp.de/buecher/empirische_ethik-_29892.html)

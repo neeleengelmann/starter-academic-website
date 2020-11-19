@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Norms and Causation - Current Empirical Findings (invited talk)
-event: Workshop The Experimental Philosophy of Morality and Causation - Perspectives from Philosophy, Psychology, and Law
+event: 
 event_url:
 location: Workshop "The Experimental Philosophy of Morality and Causation - Perspectives from Philosophy, Psychology, and Law." Ruhr University Bochum, Germany
 address:
