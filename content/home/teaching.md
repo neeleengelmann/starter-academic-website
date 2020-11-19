@@ -25,13 +25,3 @@ I have been co-teaching introductory statistics since winter 2017, leading pract
 + **Winter 2017/18**: Quantitative Methods I
 
 In addition, I have supervised and co-supervised a number of empirical Bachelor and Master projects in the fields of causal and moral reasoning and experimental philosophy.
-<!---
-- **Summer 2020**
-  - E. Köhler: Lying, deceiving, misleading: Moral evaluation and the influence of perspective (M.Sc. thesis, joint supervision with Alex Wiegmann)
-  - S. Ernst: The influence of causal structure and beliefs about causal structure on judgments of causation and moral responsibility (B.Sc. thesis)
-  - A. Zobott: AI and Moral Decisions: Does experience learning and process transparency increase acceptability? (M.Sc. thesis)
-
-- **Summer 2019**
-  - M. Rocholl: Moral reasoning with multiple effects: intentionality and moral responsibility for side effects (B.Sc. thesis)
-  - L. Ahlwes: The role of outcome valence for causal attributions in disjunctive causal structures (B.Sc. thesis)
-  -->
