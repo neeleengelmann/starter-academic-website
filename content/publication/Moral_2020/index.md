@@ -67,4 +67,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+Shared first authorship
+
 [See publisher's website.](https://www.suhrkamp.de/buecher/empirische_ethik-_29892.html)
