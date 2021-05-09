@@ -16,6 +16,7 @@ header:
 
 I have been co-teaching introductory statistics since winter 2017, leading practical exercise and discussion sessions for first-year psychology students. The seminar "Quantitative Methods I" covers basics of research design and hypothesis testing, data visualisation, probability theory, descriptive and inferential data analysis, and power analyses. Practical exercises are held using MS Excel. "Quantitative Methods II" focuses on the General Linear Model and its various applications (multiple linear regression and its assumptions, ANOVA, contrast analyses, logistic regression, multilevel models). The practical exercises are conducted in R and RStudio.
 
++ **Summer 2021**: Quantitative Methods II
 + **Winter 2020/21**: Quantitative Methods I
 + **Summer 2020**: Quantitative Methods II
 + **Winter 2019/20**: Quantitative Methods I
