@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "A causal Proximity Effect in Moral judgment"
-authors: [Neele Engelmann, Michael r. Waldmann]
+authors: [Neele Engelmann, Michael R. Waldmann]
 date: 2021-07-27T14:16:46+01:00
 doi: ""
 
@@ -14,7 +14,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the Annual Meeting of the Cognitive Science Society 43"
+publication: "Proceedings of the Annual Meeting of the Cognitive Science Society 43 (in press)"
 publication_short: ""
 
 abstract: "In three experiments (total N = 1302) we investigated whether causal proximity affects moral judgments. We manipulated causal proximity by varying the length of chains mediating between actions and outcomes, and by varying the strengths of causal links. We demonstrate that moral judgments are affected by causal proximity with longer chains or weaker links leading to more lenient moral evaluations. Moreover, we identify outcome foreseeability as the crucial factor linking causal proximity and moral judgments. While effects of causal proximity on moral judgments were small when controlling for factors that were confounded in previous studies, knowledge about the presence of causal links substantially alters judgments of permissibility and responsibility. The experiments demonstrate a tight coupling between causal representations, inferences about mental states, and moral reasoning."
