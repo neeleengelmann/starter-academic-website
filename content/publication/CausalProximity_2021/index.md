@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A causal Proximity Effect in Moral judgment"
+title: "A Causal Proximity Effect in Moral judgment"
 authors: [Neele Engelmann, Michael R. Waldmann]
 date: 2021-07-27T14:16:46+01:00
 doi: ""
