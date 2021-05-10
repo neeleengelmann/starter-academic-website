@@ -3,7 +3,7 @@
 
 title: "A Causal Proximity Effect in Moral judgment"
 authors: [Neele Engelmann, Michael R. Waldmann]
-date: 2021-07-27T14:16:46+01:00
+date: 2021-01-27T14:16:46+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
