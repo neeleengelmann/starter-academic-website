@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://raw.githubusercontent.com/NeeleEngelmann/CausalProximity2021/main/EngelmannWaldmann_CausalProximity.pdf
 url_code:
 url_dataset:
 url_poster:
