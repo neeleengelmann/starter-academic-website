@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A Causal Proximity Effect in Moral judgment"
+title: "How to weigh lives. A computational model of moral judgment in multiple-outcome structures"
 authors: [Neele Engelmann, Michael R. Waldmann]
 date: 2021-01-27T14:16:46+01:00
 doi: ""
@@ -13,13 +13,14 @@ publishDate: 2021-01-16T14:16:46+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the Annual Meeting of the Cognitive Science Society (43)"
+publication: "Cognition (in press)"
 publication_short: ""
 
-abstract: "In three experiments (total N = 1302) we investigated whether causal proximity affects moral judgments. We manipulated causal proximity by varying the length of chains mediating between actions and outcomes, and by varying the strengths of causal links. We demonstrate that moral judgments are affected by causal proximity with longer chains or weaker links leading to more lenient moral evaluations. Moreover, we identify outcome foreseeability as the crucial factor linking causal proximity and moral judgments. While effects of causal proximity on moral judgments were small when controlling for factors that were confounded in previous studies, knowledge about the presence of causal links substantially alters judgments of permissibility and responsibility. The experiments demonstrate a tight coupling between causal representations, inferences about mental states, and moral reasoning."
+abstract: "When is it allowed to carry out an action that saves lives, but leads to the loss of others? While a minority of people may deny the permissibility of such actions categorically, most will probably say that the answer depends, among other factors, on the number of lives saved versus lives lost. Theories of moral reasoning acknowledge the
+importance of outcome trade-offs for moral judgments, but remain silent on the precise functional form of the psychological mechanism that determines their moral permissibility. An exception is Cohen and Ahn's (2016) subjective-utilitarian theory of moral judgment, but their model is currently limited to decisions in two-option life-and-death dilemmas. Our goal is to study other types of moral judgments in a larger set of cases. We propose a computational model based on sampling and integrating subjective utilities. Our model captures moral permissibility judgments about actions with multiple effects across a range of scenarios involving humans, animals, and plants, and is able to account for some response patterns that might otherwise be associated with deontological ethics. While our model can be embedded in a number of competing contemporary theories of moral reasoning, we argue that it would most fruitfully be combined with a causal model theory."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,11 +37,11 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://raw.githubusercontent.com/NeeleEngelmann/CausalProximity2021/main/EngelmannWaldmann_CausalProximity.pdf
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:
-url_project:
+url_project: https://osf.io/682uc/
 url_slides:
 url_source:
 url_video:
