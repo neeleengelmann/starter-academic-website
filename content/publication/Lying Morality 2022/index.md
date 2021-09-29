@@ -16,7 +16,7 @@ publishDate: 2020-11-16T13:54:21+01:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "From lying to perjury: Linguistic and legal perspectives onlies and other falsehoods (in press)"
+publication: "In L. Horn (Ed): From lying to perjury: Linguistic and legal perspectives onlies and other falsehoods. De Gruyter (in press)"
 publication_short: ""
 
 abstract: ""
