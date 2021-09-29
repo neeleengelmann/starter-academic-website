@@ -16,20 +16,23 @@ publishDate: 2020-11-16T13:54:21+01:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In L. Horn (Ed): From lying to perjury: Linguistic and legal perspectives onlies and other falsehoods. De Gruyter (in press)"
+publication: "In L. Horn (Ed): From lying to perjury: Linguistic and legal perspectives on lies and other falsehoods. De Gruyter (in press)"
 publication_short: ""
 
-abstract: ""
+abstract: "Consider the following case: 
+Dennis is going to Paul’s party tonight. He has a long day of work ahead of him before that, but he is very excited and can’t wait to get there. Dennis’s annoying friend Rebecca comes up to him and starts talking about the party. Dennis is fairly sure that Rebecca won’t go unless she thinks he’s going, too. 
+
+Rebecca: Are you going to Paul’s party? 
+
+(1) Dennis: No, I’m not going to Paul’s party. 
+
+(2) Dennis: I have to work. 
+
+Rebecca comes to believe that Dennis is not going to Paul's party.
+In (1), Dennis tricks Rebecca into a false belief by explicitly expressing a falsehood. By contrast, in (2) Dennis achieves his aim in a less direct way, namely by means of a conversational implicature. Cases of the first kind are usually described as cases of lying, while cases of the second kind are characterized as merely misleading. Philosophers have discussed such pairs of cases with regard to the question of whether lying is morally different from misleading. In this paper, we report the results of approaching this question empirically, by presenting 761 participants with ten matched cases of lying versus misleading in separate as well as joint evaluation designs. By and large, we found that cases of lying and misleading were judged to be morally on a par, to have roughly the same consequences for future trust, and to elicit roughly the same inferences about the speaker’s moral character. When asked what kind of deception participants would choose if they had to deceive another person, the clear majority preferred misleading over lying. We discuss the relevance of our findings for the philosophical debate about lying and misleading, and outline avenues for further empirical research."
 
 # Summary. An optional shortened abstract.
-summary: "Consider the following case:
-Dennis is going to Paul’s party tonight. He has a long day of work ahead of him before that, but he is very excited and can’t wait to get there. Dennis’s annoying friend Rebecca comes up to him and starts talking about the party. Dennis is fairly sure that Rebecca won’t go unless she thinks he’s going, too. 
-Rebecca: Are you going to Paul’s party? 
-(1) Dennis: No, I’m not going to Paul’s party. 
-(2) Dennis: I have to work. 
-Rebecca comes to believe that Dennis is not going to Paul's party.
-In (1), Dennis tricks Rebecca into a false belief by explicitly expressing a falsehood. By contrast, in (2) Dennis achieves his aim in a less direct way, namely by means of a conversational implicature. Cases of the first kind are usually described as cases of lying, while cases of the second kind are characterized as merely misleading. Philosophers have discussed such pairs of cases with regard to the question of whether lying is morally different from misleading. In this paper, we report the results of approaching this question empirically, by presenting 761 participants with ten matched cases of lying versus misleading in separate as well as joint evaluation designs. By and large, we found that cases of lying and misleading were judged to be morally on a par, to have roughly the same consequences for future trust, and to elicit roughly the same inferences about the speaker’s moral character. When asked what kind of deception participants would choose if they had to deceive another person, the clear majority preferred misleading over lying. We discuss the relevance of our findings for the philosophical debate about lying and misleading, and outline avenues for further empirical research.
-"
+summary: ""
 
 tags: []
 categories: []
