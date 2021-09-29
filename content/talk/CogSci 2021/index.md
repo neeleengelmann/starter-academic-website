@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A Causal Proximity Effect in Moral Judgment"
+title: "A Causal Proximity Effect in Moral Judgment (poster presentation)"
 event:
 event_url:
 location: Annual Meeting of the Cognitive Science Society (Online)

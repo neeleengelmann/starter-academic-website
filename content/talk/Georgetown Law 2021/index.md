@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A Causal Proximity Effect in Moral Judgment"
+title: "A Causal Proximity Effect in Moral Judgment (invited talk)"
 event:
 event_url:
 location: Georgetown Law & Language Lab
