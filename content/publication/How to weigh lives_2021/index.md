@@ -3,7 +3,7 @@
 
 title: "How to weigh lives. A computational model of moral judgment in multiple-outcome structures"
 authors: [Neele Engelmann, Michael R. Waldmann]
-date: 2021-01-27T14:16:46+01:00
+date: 2022-01-27T14:16:46+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0010027721003334?dgcid=author
 url_code:
 url_dataset:
 url_poster:
