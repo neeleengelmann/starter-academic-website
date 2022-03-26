@@ -68,7 +68,7 @@ highlight_name: true
 #- Visitors
 ---
 
-I'm a Ph.D. candidate at the Department of Cognitive and Decision Sciences at Georg-August-University Göttingen, Germany. My dissertation project is about the influence of causal representations on moral reasoning. I'm interested in causal reasoning, moral psychology, computational modelling, experimental philosophy and Open Science. Since 2017, I have been teaching introductory statistics seminars, as well as supervising empirical Bachelor and Master projects in Cognitive Science. 
+I'm a Ph.D. candidate at the Department of Cognitive and Decision Sciences at Georg-August-University Göttingen, Germany, and an incoming postdoctoral researcher at the Center for Law, Behaviour and Cognition at Ruhr-University Bochum. My dissertation project is about the influence of causal representations on moral reasoning. I'm interested in causal reasoning, moral psychology, computational modelling, experimental philosophy and Open Science. Since 2017, I have been teaching introductory statistics seminars, as well as supervising empirical Bachelor and Master projects in Cognitive Science. 
 
 
 [CV](https://raw.githubusercontent.com/NeeleEngelmann/CV/main/CV_Engelmann_web.pdf) 

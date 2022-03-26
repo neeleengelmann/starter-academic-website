@@ -16,7 +16,7 @@ publishDate: 2021-01-16T14:16:46+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Cognition (in press)"
+publication: "Cognition"
 publication_short: ""
 
 abstract: "When is it allowed to carry out an action that saves lives, but leads to the loss of others? While a minority of people may deny the permissibility of such actions categorically, most will probably say that the answer depends, among other factors, on the number of lives saved versus lives lost. Theories of moral reasoning acknowledge the
