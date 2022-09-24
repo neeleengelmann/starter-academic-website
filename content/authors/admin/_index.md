@@ -6,27 +6,29 @@ title: Neele Engelmann
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Georg-August-University Göttingen, Germany
+- name: Ruhr-University Bochum, Germany
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 #bio:  
 
 interests:
-- Causal and Moral Reasoning
+- Causal Reasoning
+- Moral Psychology
 - Experimental Philosophy
+- Experimental Jurisprudence
 - Computational Modelling
 - Open Science
 
 education:
   courses:
-  - course: Ph.D. Candidate in Psychology
+  - course: Dr. rer. nat. Psychology
     institution: Georg-August-University Göttingen, Germany
-    year: since 2017
+    year: 2022
   - course: M.Sc. Psychology
     institution: Georg-August-University Göttingen, Germany
     year: 2017
@@ -41,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:neele.engelmann@uni-goettingen.de  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:neele.engelmann@ruhr-uni-bochum.de  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/neele_engelmann
@@ -56,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "neele.engelmann@uni-goettingen.de"
+email: "neele.engelmann@ruhr-uni-bochum.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -68,7 +70,7 @@ highlight_name: true
 #- Visitors
 ---
 
-I'm a Ph.D. candidate at the Department of Cognitive and Decision Sciences at Georg-August-University Göttingen, Germany, and an incoming postdoctoral researcher at the Center for Law, Behaviour and Cognition at Ruhr-University Bochum. My dissertation project is about the influence of causal representations on moral reasoning. I'm interested in causal reasoning, moral psychology, computational modelling, experimental philosophy and Open Science. Since 2017, I have been teaching introductory statistics seminars, as well as supervising empirical Bachelor and Master projects in Cognitive Science. 
+I'm a postdoctoral researcher at the [Center for Law, Behaviour, and Cognition](https://zrsweb.zrs.rub.de/institut/clbc/) at Ruhr-University Bochum, Germany. I obtained my Ph.D. in Psychology from Georg-August-University Göttingen in 2022, with a project focusing on [the role of causal representations in moral judgment](https://ediss.uni-goettingen.de/handle/11858/14231) (advisor: Michael R. Waldmann). My current research interests are causal reasoning, moral psychology, computational modelling, experimental philosophy and experimental jurisprudence. During my Ph.D., I have been teaching introductory statistics seminars, as well as supervising empirical Bachelor and Master projects in Cognitive Science.
 
 
 [CV](https://raw.githubusercontent.com/NeeleEngelmann/CV/main/CV_Engelmann_web.pdf) 
