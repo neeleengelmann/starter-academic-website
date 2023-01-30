@@ -40,7 +40,7 @@ url_pdf: https://raw.githubusercontent.com/NeeleEngelmann/CausalProximity2021/ma
 url_code:
 url_dataset:
 url_poster:
-url_project:
+url_project: https://osf.io/85s23/
 url_slides:
 url_source:
 url_video:
