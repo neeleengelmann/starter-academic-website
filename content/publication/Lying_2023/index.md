@@ -19,17 +19,7 @@ publication_types: ["6"]
 publication: "In A. Wiegmann (Ed): Lying, fake news, and bullshit. Bloomsbury (in press)"
 publication_short: ""
 
-abstract: "Consider the following case: 
-Dennis is going to Paul’s party tonight. He has a long day of work ahead of him before that, but he is very excited and can’t wait to get there. Dennis’s annoying friend Rebecca comes up to him and starts talking about the party. Dennis is fairly sure that Rebecca won’t go unless she thinks he’s going, too. 
-
-Rebecca: Are you going to Paul’s party? 
-
-(1) Dennis: No, I’m not going to Paul’s party. 
-
-(2) Dennis: I have to work.
-
-Rebecca comes to believe that Dennis is not going to Paul's party.
-In (1), Dennis tricks Rebecca into a false belief by explicitly expressing a falsehood. By contrast, in (2) Dennis achieves his aim in a less direct way, namely by means of a conversational implicature. Cases of the first kind are usually described as cases of lying, while cases of the second kind are characterized as merely misleading. Philosophers have discussed such pairs of cases with regard to the question of whether lying is morally different from misleading. In this paper, we report the results of approaching this question empirically, by presenting 761 participants with ten matched cases of lying versus misleading in separate as well as joint evaluation designs. By and large, we found that cases of lying and misleading were judged to be morally on a par, to have roughly the same consequences for future trust, and to elicit roughly the same inferences about the speaker’s moral character. When asked what kind of deception participants would choose if they had to deceive another person, the clear majority preferred misleading over lying. We discuss the relevance of our findings for the philosophical debate about lying and misleading, and outline avenues for further empirical research."
+abstract: "Is lying morally worse than misleading? The traditional view in philosophy is that it is, although convincing arguments have also been offered for the view that lying and misleading are morally equal (Saul, 2012a). I here report the results of addressing this question empirically. Specifically, I tested ordinary English speakers’ intuitions on the question whether the moral status of lying versus misleading depends on whether it is overall forbidden, permissible, or obligatory to deceive someone. Timmermann & Viebahn (2021) recently proposed that lies are, on average, stronger causes of false beliefs than misleading statements. When morality demands that we deceive someone (such as Kant’s murderer at the door, asking for the location of his innocent victims), lying may thus even be morally better than misleading, since lying is the stronger cause of a desirable outcome here. I could confirm that people take lies to be the more reliable means of deception than misleading statements, possibly because they take speakers to be more committed to the deceptive content of their utterance when they lie. When deception was forbidden, lying was accordingly judged as morally worse than misleading, as Timmermann and Viebahn’s (2021) account predicts. In cases of obligatory deception, lying was indeed sometimes seen as morally better than misleading (in a scenario modelled closely on the murderer at the door case), but not in two other tested scenarios. I discuss possible reasons and outline avenues for further research. Since lying and misleading are concepts that are deeply embedded in everyday life and discourse, I argue that philosophers should take ordinary speakers’ moral intuitions on this matter seriously."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -46,11 +36,11 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: psyarxiv.com/habrm
 url_code:
 url_dataset:
 url_poster:
-url_project: https://osf.io/67gr8/
+url_project: osf.io/jwf75/
 url_slides:
 url_source:
 url_video:
