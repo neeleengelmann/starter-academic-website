@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S001002772200155X
+url_pdf: https://raw.githubusercontent.com/NeeleEngelmann/2022_chains/main/EngelmannWaldmann2022a_chains.pdf
 url_code:
 url_dataset:
 url_poster:

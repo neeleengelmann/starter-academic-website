@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0010027721003334?dgcid=author
+url_pdf: https://raw.githubusercontent.com/NeeleEngelmann/2022_GSUM/main/EngelmannWaldmann2022_GSUM.pdf
 url_code:
 url_dataset:
 url_poster:
