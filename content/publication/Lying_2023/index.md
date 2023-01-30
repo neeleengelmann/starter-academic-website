@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Is lying morally different from misleading? An empirical investigation"
-authors: [Alex Wiegmann, Neele Engelmann]
-date: 2022-12-16T13:54:21+01:00
+title: "Murderer at the door! To lie or to mislead?"
+authors: [Neele Engelmann]
+date: 2023-12-16T13:54:21+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2020-11-16T13:54:21+01:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In L. Horn (Ed): From lying to perjury: Linguistic and legal perspectives on lies and other falsehoods. De Gruyter"
+publication: "In A. Wiegmann (Ed): Lying, fake news, and bullshit. Bloomsbury (in press)"
 publication_short: ""
 
 abstract: "Consider the following case: 
@@ -46,7 +46,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.degruyter.com/document/doi/10.1515/9783110733730-005/html
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:
