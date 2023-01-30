@@ -36,11 +36,11 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: psyarxiv.com/habrm
+url_pdf: www.psyarxiv.com/habrm
 url_code:
 url_dataset:
 url_poster:
-url_project: osf.io/jwf75/
+url_project: www.osf.io/jwf75/
 url_slides:
 url_source:
 url_video:
