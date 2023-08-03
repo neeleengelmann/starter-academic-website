@@ -3,7 +3,7 @@
 
 title: "Exploring the psychology of GPT-4's moral and legal Reasoning"
 authors: [Guilherme F. C. F. Almeida, José Luiz Nunes, Neele Engelmann, Alex Wiegmann, Marcelo de Araújo]
-date: 2023-01-27T14:16:46+01:00
+date: 2023-08-03T14:16:46+01:00
 doi: "https://doi.org/10.48550/arXiv.2308.01264"
 
 # Schedule page publish date (NOT publication's date).
