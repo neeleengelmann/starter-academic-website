@@ -3,7 +3,7 @@
 
 title: "Who Caused It? Different Effects of Statistical and Prescriptive Abnormality on Causal Selection in Chains"
 authors: [Neele Engelmann, Lara Kirfel]
-date: 2023-12-16T13:54:21+01:00
+date: 2023-05-16T13:54:21+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -3,7 +3,7 @@
 
 title: "Does moral valence influence the construal of alternative possibilities?"
 authors: [Neele Engelmann, Ivar R. Hannikainen]
-date: 2023-01-27T14:16:46+01:00
+date: 2023-08-02T14:16:46+01:00
 doi: "10.13140/RG.2.2.13761.12645"
 
 # Schedule page publish date (NOT publication's date).
