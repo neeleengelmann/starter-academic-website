@@ -6,7 +6,7 @@ title: Neele Engelmann
 superuser: true
 
 # Role/position
-role: cognitive scientist
+role: Cognitive Scientist
 
 # Organizations/Affiliations
 organizations:
