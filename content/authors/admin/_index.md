@@ -6,19 +6,20 @@ title: Neele Engelmann
 superuser: true
 
 # Role/position
-role: postdoctoral researcher
+role: cognitive scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Ruhr-University Bochum, Germany
+- name: Max Planck Institute for Human Development (Berlin), Center for Humans and Machines
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 #bio:  
 
 interests:
-- Causal Reasoning
 - Moral Psychology
+- Human-AI interaction
+- Causal Reasoning
 - Experimental Philosophy
 - Experimental Jurisprudence
 - Computational Modelling
@@ -43,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:neele.engelmann@ruhr-uni-bochum.de  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:engelmann@mpib-berlin.mpg.de  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/neele_engelmann
@@ -58,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "neele.engelmann@ruhr-uni-bochum.de"
+email: "engelmann@mpib-berlin.mpg.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -70,7 +71,6 @@ highlight_name: true
 #- Visitors
 ---
 
-I'm a postdoctoral researcher at the [Center for Law, Behaviour, and Cognition](https://zrsweb.zrs.rub.de/institut/clbc/) at Ruhr-University Bochum, Germany. I obtained my Ph.D. in Psychology from Georg-August-University Göttingen in 2022, with a project focusing on [the role of causal representations in moral judgment](https://ediss.uni-goettingen.de/handle/11858/14231) (advisor: Michael R. Waldmann). My current research interests are causal reasoning, moral psychology, computational modelling, experimental philosophy and experimental jurisprudence. During my Ph.D., I have been teaching introductory statistics seminars, as well as supervising empirical Bachelor and Master projects in Cognitive Science.
-
+I'm a postdoctoral researcher at [Max Planck Institute for Human Development, Center for Humans and Machines](https://www.mpib-berlin.mpg.de/chm) in Berlin, Germany. I obtained my Ph.D. in Psychology from Georg-August-University Göttingen in 2022, with a project focusing on [the role of causal representations in moral judgment](https://ediss.uni-goettingen.de/handle/11858/14231). Before my current position, I was a postdoc at the [Center for Law, Behaviour, and Cognition](https://zrsweb.zrs.rub.de/institut/clbc/) at Ruhr-University Bochum, Germany. My research interests lie at the intersection of psychology, philosophy, and law.
 
 [CV](https://raw.githubusercontent.com/NeeleEngelmann/CV/main/CV_Engelmann_web.pdf) 
