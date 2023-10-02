@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Exploring the psychology of GPT-4's moral and legal Reasoning"
-authors: [Guilherme F. C. F. Almeida, José Luiz Nunes, Neele Engelmann, Alex Wiegmann, Marcelo de Araújo]
-date: 2023-08-03T14:16:46+01:00
-doi: "https://doi.org/10.48550/arXiv.2308.01264"
+title: "Is there a duty to apply immoral laws??"
+authors: [Neele Engelmann, Guilherme F. C. F. Almeida, Felipe Oliveira de Sousa, Karolina Prochownik, Ivar Hannikainen, Noel Struchiner, Stefan Magen]
+date: 2023-08-02T14:16:46+01:00
+doi: 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-01-16T14:16:46+01:00
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Large language models have been used as the foundation of highly sophisticated artificial intelligences, capable of delivering human-like responses to probes about legal and moral issues. However, these models are unreliable guides to their own inner workings, and even the engineering teams behind their creation are unable to explain exactly how they came to develop all of the capabilities they currently have. The emerging field of machine psychology seeks to gain insight into the processes and concepts that these models possess. In this paper, we employ the methods of psychology to probe into GPT-4's moral and legal reasoning. More specifically, we investigate the similarities and differences between GPT-4 and humans when it comes to intentionality ascriptions, judgments about causation, the morality of deception, moral foundations, the impact of moral luck on legal judgments, the concept of consent, and rule violation judgments. We find high correlations between human and AI responses, but also several significant systematic differences between them. We conclude with a discussion of the philosophical implications of our findings."
+abstract: "What should judges do when faced with immoral laws? Should they apply them withoutexception, since “the law is the law”? Or can exceptions be made for grossly immoral laws,such as historically, Nazi law? Surveying laypeople (N = 167) and people with some legaltraining (N = 141) on these matters, we find a surprisingly strong, monotonic relationship between people’s subjective moral evaluation of laws and their judgments that these lawsshould be applied in concrete cases. This tendency is most pronounced among individuals who endorse Natural Law (i.e., the legal-philosophical view that immoral laws are not validlaws at all), and is attenuated when disagreement about the moral status of a law is considered reasonable. The relationship is equally strong for laypeople and for those withlegal training. We situate our findings within the broader context of morality’s influence on legal reasoning that experimental jurisprudence has uncovered in recent years, and considernormative implications."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,11 +36,11 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2308.01264
+url_pdf: https://www.researchgate.net/publication/374256128_Is_there_a_duty_to_apply_immoral_laws
 url_code:
 url_dataset:
 url_poster:
-url_project:  https://osf.io/zunm4/?view_only=217abaddc7f6498483fda045157f5dd6
+url_project:  https://osf.io/9yk3c/
 url_slides:
 url_source:
 url_video:
