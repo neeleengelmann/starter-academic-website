@@ -3,7 +3,7 @@
 
 title: "Is there a duty to apply immoral laws??"
 authors: [Neele Engelmann, Guilherme F. C. F. Almeida, Felipe Oliveira de Sousa, Karolina Prochownik, Ivar Hannikainen, Noel Struchiner, Stefan Magen]
-date: 2023-08-02T14:16:46+01:00
+date: 2023-10-02T14:16:46+01:00
 doi: 
 
 # Schedule page publish date (NOT publication's date).
