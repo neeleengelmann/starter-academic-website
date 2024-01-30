@@ -3,7 +3,7 @@
 
 title: "Does moral valence influence the construal of alternative possibilities?"
 authors: [Neele Engelmann, Ivar R. Hannikainen]
-date: 2023-08-02T14:16:46+01:00
+date: 2024-08-02T14:16:46+01:00
 doi: "10.13140/RG.2.2.13761.12645"
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2021-01-16T14:16:46+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Possibility Studies & Society [in press]"
 publication_short: ""
 
 abstract: "It is often thought that an agent may be held morally responsible for bringing about a negative
