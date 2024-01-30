@@ -16,7 +16,7 @@ publishDate: 2020-11-16T13:54:21+01:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In K. Tobia (Ed): The Cambridge Handbook of Experimental Jurisprudence. Cambridge University Press (in press)"
+publication: "In K. Tobia (Ed): The Cambridge Handbook of Experimental Jurisprudence. Cambridge University Press [in press]"
 publication_short: ""
 
 abstract: "Determining proximate causation is critical for legal liability decisions, but how judges choose proximate causes is controversial. Recent research suggests that the perceived abnormality of causal factors determines causal selection patterns for laypeople and legal experts (Knobe & Shapiro, 2020). We investigate whether normality influences causal selection in causal chains, which are common in legal scenarios. Our results indicate a tendency to select abnormal causes only when manipulating prescriptive normality, but not statistical normality. Judgments about counterfactual relevance or suitability for intervention only moderately correlate with causal selection patterns. Our findings suggest that the interplay between causal structure and abnormality in people's reasoning about proximate causation is more intricate than previously thought."

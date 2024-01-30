@@ -16,7 +16,7 @@ publishDate: 2021-01-16T14:16:46+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Cognition"
+publication: "Cognition, 226, 105167."
 publication_short: ""
 
 abstract: "Causal analysis lies at the heart of moral judgment. For instance, a general assumption of most ethical theories is that people are only morally responsible for an outcome when their action causally contributed to it. Considering the causal relations between our acts and potential good and bad outcomes is also of crucial importance when we plan our future actions. Here, we investigate which aspects of causal relations are particularly influential when the moral permissibility of actions and the moral responsibility of agents for accidental harms are assessed. Causal strength and causal structure are two independent properties of causal models that may affect moral judgments. We investigated whether the length of a causal chain between acts and accidental harms, a structural feature of causal relations, affects people's moral evaluation of action and agent. In three studies (N = 2285), using a combination of vignettes and causal learning paradigms, we found that longer chains lead to more lenient moral evaluations of actions and agents. Moreover, we show that the reason for this finding is that harms are perceived to be less likely, and therefore less foreseeable for agents, when the relation is indirect rather than

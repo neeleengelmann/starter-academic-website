@@ -16,7 +16,7 @@ publishDate: 2020-11-16T13:54:21+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Ergo"
+publication: "Ergo, an Open Access Journal of Philosophy 8:7"
 publication_short: ""
 
 abstract: "In several recent papers and a monograph, Andreas Stokke argues that questions can be misleading, but that they cannot be lies. The aim of this paper is to show that ordinary speakers disagree. We show that ordinary speakers judge certain kinds of insincere questions to be lies, namely questions carrying a believed-false presupposition the speaker intends to convey. These judgements are robust and remain so when the participants are given the possibility of classifying the utterances as misleading or as deceiving. The judgements contrast with judgements participants give about cases of misleading or deceptive behaviour, and they pattern with judgements participants make about declarative lies. Finally, the possibility of lying with non-declaratives is not confined to questions: ordinary speakers also judge utterances of imperative, exclamative and optative sentences carrying believed-false presuppositions to be lies."
