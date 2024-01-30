@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Moral reasoning with multiple effects: justification and moral responsibility for side effects"
+title: "Moral reasoning with multiple effects: Justification and moral responsibility for side effects"
 authors: [Neele Engelmann, Michael R. Waldmann]
 date: 2019-07-16T14:02:07+01:00
 doi: ""
