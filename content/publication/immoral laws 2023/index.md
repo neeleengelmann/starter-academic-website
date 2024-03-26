@@ -16,7 +16,7 @@ publishDate: 2021-01-16T14:16:46+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[under review]"
+publication: ""
 publication_short: ""
 
 abstract: "What should judges do when faced with immoral laws? Should they apply them withoutexception, since “the law is the law”? Or can exceptions be made for grossly immoral laws,such as historically, Nazi law? Surveying laypeople (N = 167) and people with some legaltraining (N = 141) on these matters, we find a surprisingly strong, monotonic relationship between people’s subjective moral evaluation of laws and their judgments that these lawsshould be applied in concrete cases. This tendency is most pronounced among individuals who endorse Natural Law (i.e., the legal-philosophical view that immoral laws are not validlaws at all), and is attenuated when disagreement about the moral status of a law is considered reasonable. The relationship is equally strong for laypeople and for those withlegal training. We situate our findings within the broader context of morality’s influence on legal reasoning that experimental jurisprudence has uncovered in recent years, and considernormative implications."

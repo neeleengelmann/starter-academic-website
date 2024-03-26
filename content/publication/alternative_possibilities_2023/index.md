@@ -13,10 +13,10 @@ publishDate: 2021-01-16T14:16:46+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Possibility Studies & Society [in press]"
+publication: "Possibility Studies & Society"
 publication_short: ""
 
 abstract: "It is often thought that an agent may be held morally responsible for bringing about a negative
@@ -53,7 +53,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.researchgate.net/publication/372855023_Does_Moral_Valence_Influence_the_Construal_of_Alternative_Possibilities
+url_pdf: https://journals.sagepub.com/doi/10.1177/27538699241231026
 url_code:
 url_dataset:
 url_poster:
