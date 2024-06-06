@@ -3,7 +3,7 @@
 
 title: "Exploring the psychology of GPT-4's moral and legal reasoning"
 authors: [Guilherme F. C. F. Almeida, José Luiz Nunes, Neele Engelmann, Alex Wiegmann, Marcelo de Araújo]
-date: 2023-08-03T14:16:46+01:00
+date: 2024-08-03T14:16:46+01:00
 doi: "https://doi.org/10.48550/arXiv.2308.01264"
 
 # Schedule page publish date (NOT publication's date).
@@ -13,13 +13,13 @@ publishDate: 2021-01-16T14:16:46+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[under review]"
+publication: "Artificial Intelligence (333), 104145"
 publication_short: ""
 
-abstract: "Large language models have been used as the foundation of highly sophisticated artificial intelligences, capable of delivering human-like responses to probes about legal and moral issues. However, these models are unreliable guides to their own inner workings, and even the engineering teams behind their creation are unable to explain exactly how they came to develop all of the capabilities they currently have. The emerging field of machine psychology seeks to gain insight into the processes and concepts that these models possess. In this paper, we employ the methods of psychology to probe into GPT-4's moral and legal reasoning. More specifically, we investigate the similarities and differences between GPT-4 and humans when it comes to intentionality ascriptions, judgments about causation, the morality of deception, moral foundations, the impact of moral luck on legal judgments, the concept of consent, and rule violation judgments. We find high correlations between human and AI responses, but also several significant systematic differences between them. We conclude with a discussion of the philosophical implications of our findings."
+abstract: "Large language models (LLMs) exhibit expert-level performance in tasks across a wide range of different domains. Ethical issues raised by LLMs and the need to align future versions makes it important to know how state of the art models reason about moral and legal issues. In this paper, we employ the methods of experimental psychology to probe into this question. We replicate eight studies from the experimental literature with instances of Google's Gemini Pro, Anthropic's Claude 2.1, OpenAI's GPT-4, and Meta's Llama 2 Chat 70b. We find that alignment with human responses shifts from one experiment to another, and that models differ amongst themselves as to their overall alignment, with GPT-4 taking a clear lead over all other models we tested. Nonetheless, even when LLM-generated responses are highly correlated to human responses, there are still systematic differences, with a tendency for models to exaggerate effects that are present among humans, in part by reducing variance. This recommends caution with regards to proposals of replacing human participants with current state-of-the-art LLMs in psychological research and highlights the need for further research about the distinctive aspects of machine psychology."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2308.01264
+url_pdf: https://www.sciencedirect.com/science/article/pii/S000437022400081X
 url_code:
 url_dataset:
 url_poster:
