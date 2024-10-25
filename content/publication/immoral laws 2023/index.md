@@ -13,10 +13,10 @@ publishDate: 2021-01-16T14:16:46+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[submitted]"
+publication: "Cognitive Science, 48(10), e70001"
 publication_short: ""
 
 abstract: "What should judges do when faced with immoral laws? Should they apply them withoutexception, since “the law is the law”? Or can exceptions be made for grossly immoral laws,such as historically, Nazi law? Surveying laypeople (N = 167) and people with some legaltraining (N = 141) on these matters, we find a surprisingly strong, monotonic relationship between people’s subjective moral evaluation of laws and their judgments that these lawsshould be applied in concrete cases. This tendency is most pronounced among individuals who endorse Natural Law (i.e., the legal-philosophical view that immoral laws are not validlaws at all), and is attenuated when disagreement about the moral status of a law is considered reasonable. The relationship is equally strong for laypeople and for those withlegal training. We situate our findings within the broader context of morality’s influence on legal reasoning that experimental jurisprudence has uncovered in recent years, and considernormative implications."
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.researchgate.net/publication/374256128_Is_there_a_duty_to_apply_immoral_laws
+url_pdf: https://onlinelibrary.wiley.com/doi/10.1111/cogs.70001
 url_code:
 url_dataset:
 url_poster:
