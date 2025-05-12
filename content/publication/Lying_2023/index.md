@@ -3,7 +3,7 @@
 
 title: "Murderer at the door! To lie or to mislead?"
 authors: [Neele Engelmann]
-date: 2023-01-16T13:54:21+01:00
+date: 2025-01-16T13:54:21+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2020-11-16T13:54:21+01:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In A. Wiegmann (Ed): Lying, fake news, and bullshit. Bloomsbury [in press]"
+publication: "In A. Wiegmann (Ed): Advances in Experimental Philosophy of Lying. Bloomsbury."
 publication_short: ""
 
 abstract: "Is lying morally worse than misleading? The traditional view in philosophy is that it is, although convincing arguments have also been offered for the view that lying and misleading are morally equal (Saul, 2012a). I here report the results of addressing this question empirically. Specifically, I tested ordinary English speakers’ intuitions on the question whether the moral status of lying versus misleading depends on whether it is overall forbidden, permissible, or obligatory to deceive someone. Timmermann & Viebahn (2021) recently proposed that lies are, on average, stronger causes of false beliefs than misleading statements. When morality demands that we deceive someone (such as Kant’s murderer at the door, asking for the location of his innocent victims), lying may thus even be morally better than misleading, since lying is the stronger cause of a desirable outcome here. I could confirm that people take lies to be the more reliable means of deception than misleading statements, possibly because they take speakers to be more committed to the deceptive content of their utterance when they lie. When deception was forbidden, lying was accordingly judged as morally worse than misleading, as Timmermann and Viebahn’s (2021) account predicts. In cases of obligatory deception, lying was indeed sometimes seen as morally better than misleading (in a scenario modelled closely on the murderer at the door case), but not in two other tested scenarios. I discuss possible reasons and outline avenues for further research. Since lying and misleading are concepts that are deeply embedded in everyday life and discourse, I argue that philosophers should take ordinary speakers’ moral intuitions on this matter seriously."
