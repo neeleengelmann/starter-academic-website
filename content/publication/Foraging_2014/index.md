@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Foraging for alternatives: ecological rationality in keeping options viable"
+title: "Foraging for alternatives: Ecological rationality in keeping options viable"
 authors: [Hansjörg Neth, Neele Engelmann, Ralf Mayrhofer]
 date: 2014-07-16T14:16:46+01:00
 doi: ""

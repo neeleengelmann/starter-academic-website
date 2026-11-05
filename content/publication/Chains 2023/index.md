@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Who Caused It? Different Effects of Statistical and Prescriptive Abnormality on Causal Selection in Chains"
+title: "Who caused it? Different effects of statistical and prescriptive abnormality on causal selection in chains"
 authors: [Neele Engelmann, Lara Kirfel]
 date: 2025-05-16T13:54:21+01:00
 doi: "10.1017/9781009170901.032"
