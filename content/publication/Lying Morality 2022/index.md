@@ -4,7 +4,7 @@
 title: "Is lying morally different from misleading? An empirical investigation"
 authors: [Alex Wiegmann, Neele Engelmann]
 date: 2022-12-16T13:54:21+01:00
-doi: ""
+doi: "10.1515/9783110733730-005"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-11-16T13:54:21+01:00
@@ -16,7 +16,7 @@ publishDate: 2020-11-16T13:54:21+01:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In L. Horn (Ed): From lying to perjury: Linguistic and legal perspectives on lies and other falsehoods. De Gruyter"
+publication: "In L. Horn (Ed.), *From lying to perjury: Linguistic and legal perspectives on lies and other falsehoods* (pp. 89–111). De Gruyter"
 publication_short: ""
 
 abstract: "Consider the following case: 

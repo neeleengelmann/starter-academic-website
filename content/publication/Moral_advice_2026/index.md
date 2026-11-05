@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "People Accurately Anticipate the Influence of Human and LLM Moral Advice"
+title: "People expect less but show equal influence of LLM versus human moral advice"
 authors: [Neele Engelmann, Eva-Madeleine Schmidt, Ali Alhosseini, Ivar R. Hannikainen, Mengchen Dong]
 date: 2026-10-24T00:00:00+02:00
 doi: "10.1016/j.chbr.2026.101413"
@@ -16,7 +16,7 @@ publishDate: 2026-11-05T00:00:00+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computers in Human Behavior Reports, 101413 (in press)"
+publication: "*Computers in Human Behavior Reports*, Article 101413. Advance online publication"
 publication_short: ""
 
 abstract: ""

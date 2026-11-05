@@ -3,6 +3,7 @@
 
 title: "Open Science and Research Data Management Guidelines [Version 1]"
 authors: [Max Planck Institute for Human Development, Tobias Bengfort, Josefine Blunk, Neele Engelmann, Thomas Feg, Stefan Herzog, Maike Kleemeyer, Sina Schwarze, Sebastian Nix, Aaron Peikert, Ilse Pit, Penelope Tilsley]
+authors_apa: "Max Planck Institute for Human Development, Max Planck Society, Bengfort, T., Blunk, J., Engelmann, N., Feg, T., Herzog, S., Kleemeyer, M., Schwarze, S., Nix, S., Peikert, A., Pit, I., & Tilsley, P."
 date: 2025-01-01T00:00:00+01:00
 doi: "10.17617/2.3682163"
 
@@ -16,7 +17,7 @@ publishDate: 2026-11-05T00:00:00+01:00
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Max Planck Institute for Human Development"
+publication: ""
 publication_short: ""
 
 abstract: ""

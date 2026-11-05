@@ -16,7 +16,7 @@ publishDate: 2021-01-16T14:16:46+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the Annual Meeting of the Cognitive Science Society (47)"
+publication: "In D. Barner, N. Bramley, A. Ruggeri, & C. Walker (Eds.), *Proceedings of the 47th Annual Meeting of the Cognitive Science Society* (pp. 908–914)"
 publication_short: ""
 
 abstract: "Recent evidence suggests that delegating tasks to machines can facilitate unethical behavior, but the psychological mechanisms driving this effect are not yet well understood. This study investigates whether two interventions can mitigate cheating in an algorithmic honesty game: transparency (information about which user input causes which algorithm behavior) and framing (natural language cues about the moral valence of behavior). In a 2 × 2 experimental design, we find that transparency does not reduce dishonest behavior, despite participants actively engaging with and understanding the provided information. Conversely, framing — replacing neutral labels like ”maximize profit” with ethically charged terms like ”maximize cheating” — substantially reduces dishonesty. These findings suggest that curbing misuse of AI requires confronting users with its moral implications, not just explaining the mechanics."

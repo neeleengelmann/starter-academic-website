@@ -1,0 +1,42 @@
+{{/* APA 7 citation list item. Overrides the theme's li_citation.html. */}}
+{{- $pubtype := index (.Params.publication_types | default (slice "0")) 0 -}}
+{{- $italic_title := in (slice "3" "4" "5" "7") $pubtype -}}
+{{- $dot := cond (gt (len (findRE "[?!.]$" .Title)) 0) "" "." -}}
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span class="article-metadata li-cite-author">
+  {{- if .Params.authors_apa -}}
+    {{- .Params.authors_apa | markdownify -}}
+  {{- else -}}
+    {{- $authors := .Params.authors | default slice -}}
+    {{- $n := len $authors -}}
+    {{- range $i, $name := $authors -}}
+      {{- $parts := split $name " " -}}
+      {{- $surname := index $parts (sub (len $parts) 1) -}}
+      {{- $initials := slice -}}
+      {{- range $j, $p := first (sub (len $parts) 1) $parts -}}
+        {{- $hy := slice -}}
+        {{- range split $p "-" -}}{{- $hy = $hy | append (printf "%s." (substr . 0 1)) -}}{{- end -}}
+        {{- $initials = $initials | append (delimit $hy "-") -}}
+      {{- end -}}
+      {{- $apa := $surname -}}
+      {{- with $initials -}}{{- $apa = printf "%s, %s" $surname (delimit . " ") -}}{{- end -}}
+      {{- if gt $i 0 -}}{{- if eq $i (sub $n 1) -}}, &amp; {{ else }}, {{ end -}}{{- end -}}
+      {{- with site.GetPage (printf "authors/%s" (urlize $name)) -}}
+        <span{{ if .Params.highlight_name }} class="author-highlighted"{{ end }}><a href="{{ .RelPermalink }}">{{ $apa }}</a></span>
+      {{- else -}}
+        <span>{{ $apa }}</span>
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  </span>
+  ({{- .Params.year_apa | default (.Date.Format "2006") -}}).
+  {{ if $italic_title -}}
+  <a href="{{ .RelPermalink }}"><em>{{ .Title }}</em></a>{{ if eq $pubtype "3" }} [Preprint].{{ else }}{{ $dot }}{{ end }}
+  {{- else -}}
+  <a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ $dot }}
+  {{- end }}
+  {{ with .Params.publication }}{{ . | markdownify }}.{{ end }}
+  {{ with .Params.doi }}{{ $d := replace . "https://doi.org/" "" }}<a href="https://doi.org/{{ $d }}">https://doi.org/{{ $d }}</a>{{ end }}
+  <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
+</div>

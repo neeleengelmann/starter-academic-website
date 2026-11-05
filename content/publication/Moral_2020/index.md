@@ -16,7 +16,7 @@ publishDate: 2020-11-16T13:35:27+01:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In N. Paulo & J. C. Bublitz (Hgs.): Empirische Ethik - Grundlagentexte aus Psychologie und Philosophie (pp. 139-175). Suhrkamp Verlag, Berlin"
+publication: "In N. Paulo & J. C. Bublitz (Eds.), *Empirische Ethik - Grundlagentexte aus Psychologie und Philosophie* (pp. 139–175). Suhrkamp"
 publication_short: ""
 
 abstract: ""

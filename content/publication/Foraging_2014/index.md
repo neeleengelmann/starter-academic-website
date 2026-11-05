@@ -16,7 +16,7 @@ publishDate: 2020-11-16T14:16:46+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the Annual Meeting of the Cognitive Science Society 36"
+publication: "In P. Bello, M. Guarini, M. McShane, & B. Scassellati (Eds.), *Proceedings of the 36th Annual Meeting of the Cognitive Science Society* (pp. 1078–1083)"
 publication_short: ""
 
 abstract: "Do we invest irrational amounts of effort into keeping options viable, or do we manage available and threatened options in an adaptive fashion? To ask and answer this question, we advocate an approach that considers the dynamic properties of decision environments. By linking the exploration-vs.-exploitation dilemma to animal foraging, we show that preserving and abandoning options can both be adaptive. Specifically, people should stay and abandon options in progressive environments, and leave and seek alternatives in exhaustive environments. We extend a multi-arm bandit problem with threatened options by a manipulation of environmental expectations. Our findings show that people are highly sensitive to environmental assumptions and small payoff differentials. This replicates the original effect, but may explain the apparently irrational tendency to keep options open as an ecologically rational adaptation."

@@ -16,7 +16,7 @@ publishDate: 2026-11-05T00:00:00+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Preprint"
+publication: "ResearchGate"
 publication_short: ""
 
 abstract: ""

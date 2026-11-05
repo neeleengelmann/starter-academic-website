@@ -4,7 +4,7 @@
 title: "Causal beliefs about depression in different cultural groups — what do cognitive psychological theories of causal learning and reasoning predict?"
 authors: [York Hagmayer, Neele Engelmann]
 date: 2014-11-16T14:08:00+01:00
-doi: ""
+doi: "10.3389/fpsyg.2014.01303"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-11-16T14:08:00+01:00
@@ -16,7 +16,7 @@ publishDate: 2020-11-16T14:08:00+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Frontiers in Psychology (5, 1303)"
+publication: "*Frontiers in Psychology*, *5*, Article 1303"
 publication_short: ""
 
 abstract: "Cognitive psychological research focusses on causal learning and reasoning while cognitive anthropological and social science research tend to focus on systems of beliefs. Our aim was to explore how these two types of research can inform each other. Cognitive psychological theories (causal model theory and causal Bayes nets) were used to derive predictions for systems of causal beliefs. These predictions were then applied to lay theories of depression as a specific test case. A systematic literature review on causal beliefs about depression was conducted, including original, quantitative research. Thirty-six studies investigating 13 non-Western and 32 Western cultural groups were analysed by classifying assumed causes and preferred forms of treatment into common categories. Relations between beliefs and treatment preferences were assessed. Substantial agreement between cultural groups was found with respect to the impact of observable causes. Stress was generally rated as most important. Less agreement resulted for hidden, especially supernatural causes. Causal beliefs were clearly related to treatment preferences in Western groups, while evidence was mostly lacking for non-Western groups. Overall predictions were supported, but there were considerable methodological limitations. Pointers to future research, which may combine studies on causal beliefs with experimental paradigms on causal reasoning, are given."

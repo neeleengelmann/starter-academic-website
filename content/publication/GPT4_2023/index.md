@@ -3,8 +3,9 @@
 
 title: "Exploring the psychology of GPT-4's moral and legal reasoning"
 authors: [Guilherme F. C. F. Almeida, José Luiz Nunes, Neele Engelmann, Alex Wiegmann, Marcelo de Araújo]
+authors_apa: "Almeida, G. F. C. F., Nunes, J. L., Engelmann, N., Wiegmann, A., & de Araújo, M."
 date: 2024-08-03T14:16:46+01:00
-doi: "https://doi.org/10.48550/arXiv.2308.01264"
+doi: "10.1016/j.artint.2024.104145"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-01-16T14:16:46+01:00
@@ -16,7 +17,7 @@ publishDate: 2021-01-16T14:16:46+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Artificial Intelligence (333), 104145"
+publication: "*Artificial Intelligence*, *333*, Article 104145"
 publication_short: ""
 
 abstract: "Large language models (LLMs) exhibit expert-level performance in tasks across a wide range of different domains. Ethical issues raised by LLMs and the need to align future versions makes it important to know how state of the art models reason about moral and legal issues. In this paper, we employ the methods of experimental psychology to probe into this question. We replicate eight studies from the experimental literature with instances of Google's Gemini Pro, Anthropic's Claude 2.1, OpenAI's GPT-4, and Meta's Llama 2 Chat 70b. We find that alignment with human responses shifts from one experiment to another, and that models differ amongst themselves as to their overall alignment, with GPT-4 taking a clear lead over all other models we tested. Nonetheless, even when LLM-generated responses are highly correlated to human responses, there are still systematic differences, with a tendency for models to exaggerate effects that are present among humans, in part by reducing variance. This recommends caution with regards to proposals of replacing human participants with current state-of-the-art LLMs in psychological research and highlights the need for further research about the distinctive aspects of machine psychology."

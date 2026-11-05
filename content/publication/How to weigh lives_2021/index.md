@@ -4,7 +4,7 @@
 title: "How to weigh lives. A computational model of moral judgment in multiple-outcome structures"
 authors: [Neele Engelmann, Michael R. Waldmann]
 date: 2022-01-27T14:16:46+01:00
-doi: ""
+doi: "10.1016/j.cognition.2021.104910"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-01-16T14:16:46+01:00
@@ -16,7 +16,7 @@ publishDate: 2021-01-16T14:16:46+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Cognition, 218, 104910"
+publication: "*Cognition*, *218*, Article 104910"
 publication_short: ""
 
 abstract: "When is it allowed to carry out an action that saves lives, but leads to the loss of others? While a minority of people may deny the permissibility of such actions categorically, most will probably say that the answer depends, among other factors, on the number of lives saved versus lives lost. Theories of moral reasoning acknowledge the

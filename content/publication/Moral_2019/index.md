@@ -16,7 +16,7 @@ publishDate: 2020-11-16T14:02:07+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the Annual Meeting of the Cognitive Science Society 41 (pp. 1703-1709)"
+publication: "In W. D. Gray & C. D. Schunn (Eds.), *Proceedings of the 41st Annual Meeting of the Cognitive Science Society* (pp. 1703–1709)"
 publication_short: ""
 
 abstract: "Many actions have both an intended primary effect and unintended, but foreseen side effects. In two experiments we investigated how people morally evaluate such situations. While a negative side effect was held constant across conditions in Experiment 1, we varied features of the positive primary effect. We found that judgments of moral justification of actions were sensitive to the numerical ratios of helped versus harmed entities as well as to the kind of state change that was induced by an agent’s action (saving entities from harm versus improving their status quo). Judgments of moral responsibility for side effects were only sensitive to the latter manipulation. In Experiment 2, we found initial support for a subjective utilitarian explanation of the moral justification judgments."

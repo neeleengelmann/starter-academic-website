@@ -16,7 +16,7 @@ publishDate: 2026-11-05T00:00:00+01:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In V. C. Müller, A. R. Dewey, L. Dung & G. Löhr (Eds): Philosophy of Artificial Intelligence: The State of the Art (pp. 431-443). Synthese Library, Springer Nature"
+publication: "In V. C. Müller, A. R. Dewey, L. Dung, & G. Löhr (Eds.), *Philosophy of artificial intelligence: The state of the art* (pp. 431–443). Springer Nature"
 publication_short: ""
 
 abstract: ""

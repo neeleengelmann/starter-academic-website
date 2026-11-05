@@ -16,7 +16,7 @@ publishDate: 2026-11-05T00:00:00+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the Annual Meeting of the Cognitive Science Society (48), 4680-4686"
+publication: "In G. Boleda, I. Dautriche, M. Maldonado, C. Saldana, & T. Torrent (Eds.), *Proceedings of the 48th Annual Meeting of the Cognitive Science Society* (pp. 4680–4686)"
 publication_short: ""
 
 abstract: ""
