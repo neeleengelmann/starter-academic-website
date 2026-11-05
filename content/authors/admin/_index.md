@@ -71,6 +71,10 @@ highlight_name: true
 #- Visitors
 ---
 
-I'm a Research Scientist at [Max Planck Institute for Human Development, Center for Humans and Machines](https://www.mpib-berlin.mpg.de/chm) in Berlin, Germany. I obtained my Ph.D. in Psychology from Georg-August-University Göttingen in 2022, with a project focusing on [the role of causal representations in moral judgment](https://ediss.uni-goettingen.de/handle/11858/14231). Before my current position, I was a postdoc at the [Center for Law, Behaviour, and Cognition](https://zrsweb.zrs.rub.de/institut/clbc/) at Ruhr-University Bochum, Germany. My research interests lie at the intersection of psychology, philosophy, and law.
+I'm a Research Scientist at the [Max Planck Institute for Human Development, Center for Humans and Machines](https://www.mpib-berlin.mpg.de/chm) in Berlin, Germany, where I study behavioral AI ethics: how working with and through AI changes what people are willing to do, and how they judge right and wrong. My current work asks why people behave less ethically when they [delegate tasks to AI](https://escholarship.org/uc/item/30w0j59z), and what can prevent this, across settings from dishonesty to physical harm and wartime targeting decisions. I also study how people use AI chatbots for ethical advice, and how much [that advice shapes their own judgments](https://doi.org/10.1016/j.chbr.2026.101413).
 
-[CV](https://raw.githubusercontent.com/NeeleEngelmann/CV/main/CV_Engelmann_web.pdf) 
+My earlier work focused on moral judgment, causal reasoning, and law. I studied how [causal structure](https://doi.org/10.1016/j.cognition.2022.105167) and [multiple outcomes](https://doi.org/10.1016/j.cognition.2021.104910) shape moral judgments, whether [lying is morally worse than misleading](https://doi.org/10.1515/9783110733730-005), and how people think about rule enforcement, for instance [when judges should apply laws they consider unjust](https://doi.org/10.1111/cogs.70001). I continue to work on questions at the intersection of psychology, philosophy, and law alongside my AI research.
+
+I obtained my Ph.D. in Psychology from Georg-August-University Göttingen in 2022, with a project on [the role of causal representations in moral judgment](https://ediss.uni-goettingen.de/handle/11858/14231), and was previously a postdoc at the [Center for Law, Behaviour, and Cognition](https://zrsweb.zrs.rub.de/institut/clbc/) at Ruhr University Bochum.
+
+[CV](https://raw.githubusercontent.com/NeeleEngelmann/CV/main/CV_Engelmann_web.pdf)
