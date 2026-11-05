@@ -71,6 +71,6 @@ highlight_name: true
 #- Visitors
 ---
 
-I'm a postdoctoral researcher at [Max Planck Institute for Human Development, Center for Humans and Machines](https://www.mpib-berlin.mpg.de/chm) in Berlin, Germany. I obtained my Ph.D. in Psychology from Georg-August-University Göttingen in 2022, with a project focusing on [the role of causal representations in moral judgment](https://ediss.uni-goettingen.de/handle/11858/14231). Before my current position, I was a postdoc at the [Center for Law, Behaviour, and Cognition](https://zrsweb.zrs.rub.de/institut/clbc/) at Ruhr-University Bochum, Germany. My research interests lie at the intersection of psychology, philosophy, and law.
+I'm a Research Scientist at [Max Planck Institute for Human Development, Center for Humans and Machines](https://www.mpib-berlin.mpg.de/chm) in Berlin, Germany. I obtained my Ph.D. in Psychology from Georg-August-University Göttingen in 2022, with a project focusing on [the role of causal representations in moral judgment](https://ediss.uni-goettingen.de/handle/11858/14231). Before my current position, I was a postdoc at the [Center for Law, Behaviour, and Cognition](https://zrsweb.zrs.rub.de/institut/clbc/) at Ruhr-University Bochum, Germany. My research interests lie at the intersection of psychology, philosophy, and law.
 
 [CV](https://raw.githubusercontent.com/NeeleEngelmann/CV/main/CV_Engelmann_web.pdf) 
