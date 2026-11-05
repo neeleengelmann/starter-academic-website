@@ -6,11 +6,11 @@ title: Neele Engelmann
 superuser: true
 
 # Role/position
-role: Cognitive Scientist
+role: Behavioral Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Max Planck Institute for Human Development (Berlin), Center for Humans and Machines
+- name: Max Planck Institute for Human Development, Center for Humans and Machines, Berlin
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
