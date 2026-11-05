@@ -5,13 +5,13 @@ name = "mytheme"
 light = false
 
 # Primary
-primary = "hsl(180, 100%, 27%)"
+primary = "#1660B0"
 
 # Menu
-menu_primary = "rgb(20, 22, 34)"
-menu_text = "rgba(255,255,255,0.6)"
-menu_text_active = "rgba(255,255,255,1)"
-menu_title = "#fff"
+menu_primary = "#ffffff"
+menu_text = "rgba(0,0,0,0.6)"
+menu_text_active = "#1660B0"
+menu_title = "#1a1a1a"
 
 # Home sections
 home_section_odd = "hsla(231, 15%, 18%, 1)"

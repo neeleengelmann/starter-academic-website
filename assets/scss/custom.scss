@@ -1,0 +1,10 @@
+// Smaller section headings on the homepage (e.g. "Biography", "Journal Articles")
+.home-section h1,
+.home-section .section-heading h1 {
+  font-size: 1.6rem !important;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+.home-section .section-heading p {
+  font-size: 0.95rem;
+}
