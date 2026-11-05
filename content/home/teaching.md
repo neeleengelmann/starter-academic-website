@@ -14,16 +14,8 @@ header:
   image: ""
 ---
 
-I have been co-teaching introductory statistics since winter 2017, leading practical exercise and discussion sessions for first-year psychology students. The seminar "Quantitative Methods I" covers basics of research design and hypothesis testing, data visualisation, probability theory, descriptive and inferential data analysis, and power analyses. Practical exercises are held using MS Excel. "Quantitative Methods II" focuses on the General Linear Model and its various applications (multiple linear regression and its assumptions, ANOVA, contrast analyses, logistic regression, multilevel models). The practical exercises are conducted in R and RStudio.
+In summer 2026, I co-taught the seminar "Machine + Behavior" at TU Berlin, which covers research at the intersection of AI and behavioral science; my sessions focused on experimental design and causal inference, delegation to AI, and developing research plans. From 2017 to 2022, I taught the introductory statistics courses "Quantitative Methods I and II" for psychology students at the University of Göttingen, covering research design, hypothesis testing, and the General Linear Model, with practical exercises in Excel and R.
 
-+ **Winter 2021/22**: Quantitative Methods I
-+ **Summer 2021**: Quantitative Methods II
-+ **Winter 2020/21**: Quantitative Methods I
-+ **Summer 2020**: Quantitative Methods II
-+ **Winter 2019/20**: Quantitative Methods I
-+ **Summer 2019**: Quantitative Methods II
-+ **Winter 2018/19**: Quantitative Methods I
-+ **Summer 2018**: Quantitative Methods II
-+ **Winter 2017/18**: Quantitative Methods I
+At the Max Planck Institute for Human Development, I am the daily supervisor of two PhD students working on delegation to AI and human-centered AI, and I supervise Master's students, lab rotations, and interns. Previously, I supervised and co-supervised several Bachelor's and Master's theses on causal and moral reasoning and experimental philosophy at the University of Göttingen.
 
-In addition, I have supervised and co-supervised a number of empirical Bachelor and Master projects in the fields of causal and moral reasoning and experimental philosophy.
+More details are listed in my [CV](https://raw.githubusercontent.com/NeeleEngelmann/CV/main/CV_Engelmann_web.pdf).
